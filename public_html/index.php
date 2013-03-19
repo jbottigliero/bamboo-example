@@ -1,3 +1,3 @@
 <?php
 
-    echo 'I was deployed using Bamboo, for internal QA!';
+    echo 'I was deployed using Bamboo, for shared dev!';
